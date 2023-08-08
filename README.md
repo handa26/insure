@@ -15,17 +15,15 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ### Screenshot
 
-Desktop
 ![Insure Desktop](./src/assets/Insure-desktop.png)
 
-Mobile
 ![Insure Mobile](./src/assets/Insure-mobile.png)
 
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/handa26/insure)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/handa26/insure)
+- Live Site URL: [Insure Landing Page](https://phenomenal-llama-bc1819.netlify.app/)
 
 ## My process
 
