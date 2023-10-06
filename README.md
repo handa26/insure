@@ -1,41 +1,42 @@
-# Frontend Mentor - Insure landing page solution
+# Insure Landing Page <img src="https://img.shields.io/badge/Build%20with-Vite-61dbfb?style=popout&logo=vite">
 
-This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8).
+## Contents
 
-## Table of contents
+- [Description](#description)
+- [Installation](#installation-for-development)
+- [Screenshoots](#screenshoots)
+- [Demo Insure Landing Page](#demo-insure-landing-page)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+## Description
 
-## Overview
+**Insure Landing Page**: A responsive landing page built with React.js and styled using Tailwind CSS, showcasing modern design principles for insurance services.
 
-### Screenshot
+## Installation for Development
 
-![Insure Desktop](./src/assets/Insure-desktop.png)
+Use the package manager [npm](https://www.npmjs.com/get-npm) to install all required dependecies.
+```bash
+npm install
+```
+and then:
+```bash
+npm run dev
+```
 
-![Insure Mobile](./src/assets/Insure-mobile.png)
+## Screenshoots
 
+<div align="center">
+    <img width="100%" src="./src/assets/Insure-desktop.png">
+    <img width="100%" src="./src/assets/Insure-mobile.png">
+</div>
 
-### Links
+## Demo Crowdfunding Page
 
-- Solution URL: [Github](https://github.com/handa26/insure)
-- Live Site URL: [Insure Landing Page](https://phenomenal-llama-bc1819.netlify.app/)
+Let's try it.
 
-## My process
+<a href="https://phenomenal-llama-bc1819.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Insure%20Landing%20Page-Link%20Demo-blue.svg?style=popout&logo=googlechrome"/>
+</a>
 
-### Built with
-
-- Vite React.JS
-- Tailwind CSS
-- [Vite](https://vitejs.dev/guide/) - Frontend Tooling
-- [Tailwind CSS](https://tailwindcss.com/) - For styles
-
-## Author
-
-- Website - [Ananda Muhammad](https://handa260.netlify.app/)
+<!-- - Website - [Ananda Muhammad](https://handa260.netlify.app/) -->
 <!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) -->
-- Twitter/X - [@_handa26](https://twitter.com/_handa26)
+<!-- - Twitter/X - [@_handa26](https://twitter.com/_handa26) -->
